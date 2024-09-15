@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Maryam
-- 👀 I’m a full stack developer and UI/UX Designer with a passion for learning and being challenged. 
+- 👀 I am computer science graduate from the University of Houston with some UI/UX Design Experience. I also completed a full stack development bootcamp with General Assembly. 
 - ❤️‍🔥 If you see a project you like, feel free to contact me: mdawood832@gmail.com
